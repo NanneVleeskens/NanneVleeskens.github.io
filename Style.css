@@ -2,3 +2,7 @@ body{
     background-color: rgb(192, 46, 97);
     color: rgb(255, 183, 234);
 }
+ul{
+    background-color: aliceblue;
+    color: black;
+}
