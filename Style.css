@@ -22,3 +22,6 @@ ul li a{
 ul li a:hover{
     background-color: hotpink;
 }
+ul li a.active{
+    background-color: hotpink;
+}
