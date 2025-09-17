@@ -25,3 +25,6 @@ ul li a:hover{
 ul li a.active{
     background-color: hotpink;
 }
+table th {
+border: 1px solid black;
+}
