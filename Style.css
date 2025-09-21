@@ -34,7 +34,7 @@ img .Binaireplaatje {
 }
 
 p.Bits {
-    length: 50px;
+    width: 50%;
 }
 
 img.CMY-kleurmodel {
