@@ -37,6 +37,6 @@ p .Bits {
     length: 50px;
 }
 
-img .CMY-kleurmodel {
+img.CMY-kleurmodel {
     width: 50%;
 }
