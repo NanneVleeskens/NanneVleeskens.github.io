@@ -40,3 +40,7 @@ p.Bits {
 img.CMY-kleurmodel {
     width: 25%;
 }
+
+img.Binaireplaatje {
+    float: right;
+}
