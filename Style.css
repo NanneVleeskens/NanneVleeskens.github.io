@@ -33,7 +33,7 @@ img .Binaireplaatje {
     float: right;
 }
 
-p .Bits {
+p.Bits {
     length: 50px;
 }
 
