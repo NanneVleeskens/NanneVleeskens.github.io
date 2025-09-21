@@ -29,9 +29,10 @@ table th {
 border: 1px solid black;
   border-collapse: collapse;
 }
-.Binaireplaatje {
+img .Binaireplaatje {
     float: right;
 }
-.tabel {
-    float: left;
+
+p .Bits {
+    width: 75%;
 }
