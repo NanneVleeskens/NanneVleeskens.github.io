@@ -25,13 +25,6 @@ ul li a:hover{
 ul li a.active{
     background-color: hotpink;
 }
-table th {
-border: 1px solid black;
-  border-collapse: collapse;
-}
-img .Binaireplaatje {
-    float: right;
-}
 
 p.Bits {
     width: 50%;
@@ -45,6 +38,6 @@ img.Binaireplaatje {
     float: middle;
 }
 
-img .RGB-kleurmodel {
-    width: 50%;
+img.RGB-kleurmodel {
+    width: 25%;
 }
