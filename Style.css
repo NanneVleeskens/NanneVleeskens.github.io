@@ -1,32 +1,32 @@
 body{
-    background-color: rgb(192, 46, 97);
-    color: rgb(255, 255, 255);
+    background-color: rgb(192, 46, 97); /* achtergrondkleur */
+    color: rgb(255, 255, 255); /* letterkleur */
 }
 ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: pink;
+    list-style-type: none; /* geen puntjes voor het menu */
+    margin: 0; /* haalt ruimte tussen de andere elementen weg */
+    padding: 0; /* haalt ruimte binnen het menu weg */
+    overflow: hidden; /* zorgt dat het binnen het venster blijft */
+    background-color: pink; 
 }
 ul li{
-    float: left;
+    float: left; /* zorgt voor horizontaal menu aan de linker kant */
 }
 ul li a{
-    display: block;
+    display: block; /* maakt het vakje waar de tekst in staat een blok */
     color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    text-align: center; /* tekst komt in het midden van het blok */
+    padding: 14px 16px; /* creërt ruimte tussen de inhoud en de rand van het element */
+    text-decoration: none; /* verwijderd standaard onderstreeping van de link */
 }
-ul li a:hover{
+ul li a:hover{ /* als je met je muis over het menu gaat krijgt die een andere kleur namelijk hotpink */
     background-color: hotpink;
 }
-ul li a.active{
+ul li a.active{ /* op de pagina waar je bent heeft het het blokje van de pagina in het menu een andere kleur namelijk hotpink */
     background-color: hotpink;
 }
 
-p.Bits {
+p.Bits { /* breedte van de tekst bits */
     width: 50%;
 }
 
@@ -62,4 +62,8 @@ img.Plaatje geluid {
 
 img.Lossless compression {
     width: 25%;
+}
+
+p.Home {
+    width: 65%;
 }
