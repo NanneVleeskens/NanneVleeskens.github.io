@@ -43,7 +43,7 @@ img.RGB-kleurmodel { /* bepaalt grootte van het plaatje RGB kleurmodel */
     width: 25%;
 }
 
-img.Tabel-binaire-stelsel{
+img.Tabel-binaire-stelsel{ /* bepaalt grote van mijn plaatje en dat die midden op de pagina zit*/
     width: 100%;
     float: center;
 }
@@ -65,6 +65,3 @@ p.Home { /* bepaalt grote van de tekst*/
     width: 65%;
 }
 
-img.Tabel-binaire-stelsel {
-    width: 75%;
-}
