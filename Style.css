@@ -64,3 +64,7 @@ img.Lossless-compression { /* bepaalt grote lossless compression*/
 p.Home { /* bepaalt grote van de tekst*/
     width: 65%;
 }
+
+img.Tabel-binaire-stelsel {
+    width: 75%;
+}
