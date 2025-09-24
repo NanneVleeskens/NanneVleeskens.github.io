@@ -55,7 +55,7 @@ p.Compressie-bij-geluidsfragmenten { /* bepaalt grote van het plaatje compressie
 
 img.Plaatje-geluid { /* Zet het plaatje geluid aan de rechter kant en bepaalt de grote*/
     float: right;
-    width: 75%;
+    width: 50%;
 }
 
 img.Lossless-compression { /* bepaalt grote lossless compression*/
