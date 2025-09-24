@@ -43,24 +43,20 @@ img.RGB-kleurmodel { /* bepaalt grootte van het plaatje RGB kleurmodel */
     width: 25%;
 }
 
-img.Tabel binaire stelsel{
+img.Tabel-binaire-stelsel{
     width: 10%;
 }
 
-p.Waarom binaire getallen {
+p.Compressie-bij-geluidsfragmenten {
     width: 50%;
 }
 
-p.Compressie bij geluidsfragmenten {
-    width: 50%;
-}
-
-img.Plaatje geluid {
+img.Plaatje-geluid {
     float: right;
     margin: 25%;
 }
 
-img.Lossless compression {
+img.Lossless-compression {
     width: 25%;
 }
 
