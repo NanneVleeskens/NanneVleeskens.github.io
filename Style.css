@@ -58,8 +58,10 @@ img.Plaatje-geluid { /* Zet het plaatje geluid aan de rechter kant en bepaalt de
     width: 50%;
 }
 
-img.Lossless-compression { /* bepaalt grote lossless compression*/
+img.Lossless-compression { /* bepaalt grote van plaatje lossless compression en dat die in het midden van de pagina komt*/
     width: 50%;
+    display: block;
+    margin: auto;
 }
 
 p.Home { /* bepaalt grote van de tekst*/
