@@ -30,16 +30,16 @@ p.Bits { /* breedte van de tekst bits */
     width: 50%;
 }
 
-img.CMY-kleurmodel {
+img.CMY-kleurmodel { /* groote plaatje CMY kleurmodel */
     width: 25%;
 }
 
-img.Binaireplaatje {
+img.Binaireplaatje { /* bepaalt dat me plaatje aan de rechter kant is en 30% van de rechterkant is */
     float: right;
     margin-right: 30%;
 }
 
-img.RGB-kleurmodel {
+img.RGB-kleurmodel { /* bepaalt grootte van het plaatje RGB kleurmodel */
     width: 25%;
 }
 
