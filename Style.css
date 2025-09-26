@@ -76,3 +76,7 @@ p.Home { /* bepaalt grote van de tekst en zorgt dat er een border omheen staat*/
     text-align: justify;
     border-radius: 10px;
 }
+
+img.ASCII-tabel {
+    width: 25;
+}
