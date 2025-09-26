@@ -83,3 +83,7 @@ p.Home { /* bepaalt grote van de tekst en zorgt dat er een border omheen staat*/
 img.ASCII-tabel {
     width: 50%;
 }
+
+img.Lossy-compression {
+    width: 50%;
+}
