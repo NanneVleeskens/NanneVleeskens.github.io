@@ -44,9 +44,8 @@ img.RGB-kleurmodel { /* bepaalt grootte van het plaatje RGB kleurmodel */
 }
 
 img.Tabel-binaire-stelsel{ /* bepaalt grote van mijn plaatje en dat die midden op de pagina zit*/
-    width: 75%;
-    display: block;
-    margin: auto;
+    width: 50%;
+    float: right;
 }
 
 
