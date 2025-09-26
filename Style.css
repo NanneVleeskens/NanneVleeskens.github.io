@@ -49,9 +49,7 @@ img.Tabel-binaire-stelsel{ /* bepaalt grote van mijn plaatje en dat die midden o
     margin: auto;
 }
 
-p.Compressie-bij-geluidsfragmenten { /* bepaalt grote van het plaatje compressie bij geluidsfragmenten*/
-    width: 50%;
-}
+
 
 img.Plaatje-geluid { /* Zet het plaatje geluid aan de rechter kant en bepaalt de grote. Het margin bepaalt hoe ver die van die kanten af is*/
     float: right;
