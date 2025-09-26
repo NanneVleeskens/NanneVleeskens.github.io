@@ -70,3 +70,12 @@ p.Home { /* bepaalt grote van de tekst*/
     width: 65%;
 }
 
+.compressie {
+    background-color: white;
+    width: 60%;
+    padding: 50px;
+    display: block;
+    margin: 50px auto 0 auto;
+    text-align: justify;
+    border-radius: 10px;
+}
