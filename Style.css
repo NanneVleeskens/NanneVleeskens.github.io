@@ -65,6 +65,8 @@ img.Lossless-compression { /* bepaalt grote van plaatje lossless compression en 
 p.Home { /* bepaalt grote van de tekst en zorgt dat er een border omheen staat*/
     width: 65%;
     border-style: solid;
+    padding: 20px;
+    margin: 20px;
 }
 
 .compressie {
