@@ -70,7 +70,7 @@ p.Home { /* bepaalt grote van de tekst en zorgt dat er een border omheen staat*/
 }
 
 .compressie {
-    background-color: white;
+    background-color: lightpink;
     width: 60%;
     padding: 50px;
     display: block;
