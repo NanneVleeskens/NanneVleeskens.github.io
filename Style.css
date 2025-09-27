@@ -51,7 +51,7 @@ img.Tabel-binaire-stelsel{ /* bepaalt grote van mijn plaatje en dat die midden o
 
 img.Plaatje-geluid { /* Zet het plaatje geluid aan de rechter kant en bepaalt de grote. Het margin bepaalt hoe ver die van die kanten af is*/
     float: right;
-    margin-bottom: 5%;
+    margin-left: 5%;
     width: 45%;
 }
 
