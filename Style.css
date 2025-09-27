@@ -53,7 +53,7 @@ img.Plaatje-geluid { /* Zet het plaatje geluid aan de rechter kant en bepaalt de
     float: right;
     margin-bottom: 5%;
     margin-right: 5%;
-    width: 50%;
+    width: 45%;
 }
 
 img.Lossless-compression { /* bepaalt grote van plaatje lossless compression en dat die in het midden van de pagina komt*/
