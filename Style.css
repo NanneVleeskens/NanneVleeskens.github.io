@@ -86,3 +86,7 @@ img.ASCII-tabel {
 img.Lossy-compression {
     width: 50%;
 }
+
+.Invoer-verwerking-uitvoer {
+    border-style: double;
+}
