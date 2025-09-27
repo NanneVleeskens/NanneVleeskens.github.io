@@ -74,8 +74,8 @@ p.Home { /* bepaalt grote van de tekst en zorgt dat er een border omheen staat*/
     padding: 50px;
     display: block;
     margin: 50px auto 0 auto;
-    text-align: justify;
-    border-radius: 10px;
+    text-align: justify; /*zorgt dat me tekst aan de rechtkant is is afgesneden*/
+    border-radius: 10px; /* zorgt dat de hoeken rond zijn */
     color: black;
 }
 
