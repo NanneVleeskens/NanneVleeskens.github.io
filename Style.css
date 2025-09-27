@@ -92,3 +92,11 @@ img.Lossy-compression {
     padding: 20px;
     margin: 20px;
 }
+
+img.Otje {
+    float: left;
+}
+
+img.vriendinnen {
+    float: right;
+}
