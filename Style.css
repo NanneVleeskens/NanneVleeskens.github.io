@@ -96,11 +96,12 @@ img.Lossy-compression {
 img.Otje {
     float: left;
     width: 30%;
+    margin-left: 1%;
 }
 
 img.vriendinnen {
     float: right;
     width: 30%;
-    margin-right: 10%;
+    margin-right: 30%;
 
 }
